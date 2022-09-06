@@ -1,0 +1,6 @@
+MERN - Full Stack JavaScript Application
+Name: News Application
+Tools Used:
+    MERN (MongoDB, ExpressJS, ReactJS, and NodeJS)
+    Tailwind CSS
+
